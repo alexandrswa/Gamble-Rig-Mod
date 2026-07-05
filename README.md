@@ -1,4 +1,4 @@
-# Gamble Rig
+# Gamble Rig Mod
 
 <img src="https://i.imgur.com/Bui9fb4.png" width="600"/>
 
